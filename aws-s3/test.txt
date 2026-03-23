@@ -1,0 +1,2 @@
+hello, this is to test if the upload works in the S3 bucket 
+created via terraform.

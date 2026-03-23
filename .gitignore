@@ -1,0 +1,10 @@
+# IGNORE Terraform directories nd files
+**/.terraform/
+**/.terraform.lock.hcl
+**/terraform.tfstate
+**/terraform.tfstate.backup
+*.exe
+*.zip
+*.log
+*.csv
+git personal access token.txt
